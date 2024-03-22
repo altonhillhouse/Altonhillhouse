@@ -31,7 +31,7 @@ Please ask if you would prefer a different time.
 *   Breakfast hamper for one : £7
 
 
-### Please email to pre-book your breakfast hamper for your stay.
+**Please email to pre-book your breakfast hamper for your stay.**
 
 ### Hamper image
 
