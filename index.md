@@ -30,7 +30,10 @@ Please ask if you would prefer a different time.
 *   Breakfast hamper for two: £12
 *   Breakfast hamper for one : £7
 
- ### Small image
+
+### Please email to pre-book your breakfast hamper for your stay.
+
+### Hamper image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
