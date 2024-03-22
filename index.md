@@ -5,8 +5,13 @@ layout: default
 
 # Breakfast Hamper
 
-> Our breakfast hamper is served between 7.30-8.30am.
-> Please ask if you would prefer a separate time.
+Our breakfast hamper is served between 7.30-8.30am.
+Please ask if you would prefer a separate time.
+
+# Breakfast Hamper
+
+Our breakfast hamper is served between 7.30-8.30am.
+Please ask if you would prefer a separate time.
 
 ## Our breakfast hampers include
 
