@@ -6,7 +6,7 @@ description: Welcome to Altonhill House
 
 ## Pizza menu (only available Sunday and Monday)
 
-Margherita Pizza
+### Margherita Pizza
 Mozzarella cheese, garlic and tomato sauce. 
 
 Chorizo Pizza
