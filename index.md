@@ -2,8 +2,6 @@
 layout: default
 ---
 
-[Link](./another-page.html).
-
 # Breakfast Hamper
 
 Our breakfast hamper is served between 7.30-8.30am.
@@ -31,3 +29,5 @@ Our breakfast hamper is served between 7.30-8.30am.
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+[Link](./another-page.html).
