@@ -25,7 +25,9 @@ Pesto sauce, mozzarella cheese, garlic and tomato sauce and sun dried tomatoes. 
 ### Sweet Chilli Chicken
 Sweet chilli chicken, mozzarella cheese, garlic and tomato sauce. £10
 
-**All our pizzas are freshly made with our own homemade hand stretched sourdough base.**
+_All our pizzas are freshly made with our own homemade hand stretched sourdough base._
+
+**Please email to pre-book your pizza selections for your stay.**
 
 
 [back](./)
