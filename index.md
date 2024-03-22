@@ -1,12 +1,9 @@
 ---
 layout: default
+title: Altonhill House 
+description: Welcome to Altonhill House
 ---
 
-
-# Breakfast Hamper
-
-Our breakfast hamper is served between 7.30-8.30am.
-Please ask if you would prefer a separate time.
 
 # Breakfast Hamper
 
@@ -36,4 +33,4 @@ Please ask if you would prefer a separate time.
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-[Link](./another-page.html).
+[pizza](./pizza.html).
