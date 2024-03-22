@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 # Breakfast Hamper
 
 > Our breakfast hamper is served between 7.30-8.30am.
