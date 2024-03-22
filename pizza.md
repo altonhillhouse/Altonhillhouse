@@ -4,26 +4,26 @@ title: Altonhill House
 description: Welcome to Altonhill House
 ---
 
-# Pizza menu 
-Only available Sunday and Monday.
+# Pizza Menu
+Only available Sunday and Monday between 6-8pm. 
 
-### Margherita Pizza
-Mozzarella cheese, garlic and tomato sauce. 
+### Margherita
+Mozzarella, cheese, garlic and tomato sauce. £8
 
-### Chorizo Pizza
-Chorizo, mozzarella cheese, tomatoes and garlic sauce.
+### Chorizo
+Chorizo, mozzarella cheese, tomatoes and garlic sauce. £10
 
-### Veggie Delight Pizza
-Roasted peppers, red onion, mozzarella cheese and garlic and tomato sauce.
+### Veggie Delight
+Roasted peppers, red onion, mushrooms, mozzarella cheese and garlic and tomato sauce. £10
 
-### Fiorentina Pizza
-Spinach, egg, grand Milano cheese, garlic oil
+### Fiorentina
+Spinach, egg, grand Milano cheese, garlic oil and garlic and tomato sauce. £10
 
-### Pesto Pizza
-Pesto sauce, mozzarella cheese, garlic and tomato sauce and sun dried tomatoes..
+### Pesto
+Pesto sauce, mozzarella cheese, garlic and tomato sauce and sun dried tomatoes. £10
 
-### Sweet Chilli Chicken Pizza
-Chicken, sweet chilli, mozzarella cheese, garlic and tomato sauce and chicken.
+### Sweet Chilli Chicken
+Chicken, sweet chilli, mozzarella cheese, garlic and tomato sauce. £10
 
 **All our pizzas are freshly made with our own homemade hand stretched sourdough base.**
 
