@@ -17,7 +17,7 @@ Please ask if you would prefer a different time.
 * Selection of teas;
 * Fresh milk (dairy/non-dairy);
 * Fresh orange juice;
-* Cereal;
+* Granola;
 * Pain au chocolat;
 * Home made fresh sourdough bread;
 * Butter;
@@ -27,8 +27,8 @@ Please ask if you would prefer a different time.
 
 ### Price of Breakfast hamper
 
-*   Breakfast hamper for two: £12
-*   Breakfast hamper for one : £7
+*   Breakfast hamper for two: £20
+*   Breakfast hamper for one : £10
 
 
 **Please ensure to email to pre-book your breakfast hamper for your stay.**
