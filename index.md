@@ -9,7 +9,7 @@ description: Welcome to Altonhill House
 
 Our breakfast hamper is served between 7.30-8.30am.
 
-Please ask if you would prefer a different time.
+Please let us know if you have any dietary requirements.
 
 ## Our breakfast hampers include:
 
