@@ -25,7 +25,7 @@ Please ask if you would prefer a different time.
 * Locally sourced jam and marmalade;
 * Selection of fresh fruit.
 
-### Price of Breakfast hamper
+### Price of Breakfast hamper:
 
 *   Breakfast hamper for two: £20
 *   Breakfast hamper for one : £10
