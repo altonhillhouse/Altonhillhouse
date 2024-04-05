@@ -21,7 +21,7 @@ Please ask if you would prefer a different time.
 * Pain au chocolat;
 * Home made fresh sourdough bread;
 * Butter;
-* Yogurt;
+* Yoghurt;
 * Locally sourced jam and marmalade;
 * Selection of fresh fruit.
 
@@ -32,9 +32,5 @@ Please ask if you would prefer a different time.
 
 
 **Please ensure to email to pre-book your breakfast hamper for your stay.**
-
-### Hamper image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 [Pizza Menu](./pizza.html).
