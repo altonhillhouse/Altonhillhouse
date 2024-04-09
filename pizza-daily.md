@@ -5,7 +5,7 @@ description: Welcome to Altonhill House
 ---
 
 # Pizza Menu
-We are pleased to announce we will be offering pizzas between 6-8pm. 
+We are pleased to announce we will be offering pizzas for dinner between 6-8pm. 
 
 ### Margherita
 Mozzarella cheese, basil, garlic and tomato sauce. £8
