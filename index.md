@@ -32,5 +32,3 @@ Please let us know if you have any dietary requirements.
 
 
 **Please ensure to email to pre-book your breakfast hamper for your stay.**
-
-[Pizza Menu](./pizza.html).
