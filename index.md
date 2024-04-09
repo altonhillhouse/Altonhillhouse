@@ -15,7 +15,7 @@ Please let us know if you have any dietary requirements.
 
 * Fresh coffee;
 * Selection of teas;
-* Fresh milk (dairy/non-dairy);
+* Fresh milk (dairy/almond milk);
 * Fresh orange juice;
 * Granola;
 * Pain au chocolat;
