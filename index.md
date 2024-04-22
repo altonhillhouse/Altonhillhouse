@@ -28,7 +28,7 @@ Please let us know if you have any dietary requirements.
 ### Price of Breakfast hamper:
 
 *   Breakfast hamper for two: £20
-*   Breakfast hamper for one : £10
+*   Breakfast hamper for one (or share one hamper between two): £10
 
 
 **Please ensure to email to pre-book your breakfast hamper for your stay.**
