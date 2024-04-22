@@ -8,7 +8,7 @@ description: Welcome to Altonhill House
 We are pleased to announce we will be offering pizzas for dinner between 6-8pm. 
 
 ### Margherita
-Mozzarella cheese and garlic and tomato sauce. £8
+Mozzarella cheese, basil and garlic and tomato sauce. £8
 
 ### Chorizo
 Chorizo, mozzarella cheese and garlic and tomato sauce. £10
