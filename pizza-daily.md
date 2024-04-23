@@ -34,3 +34,5 @@ Selection of drinks are available.
 _All our pizzas are freshly made with our own homemade hand stretched sourdough base, which is lighter on the stomach. Please let us know if you have any dietary requiements._
 
 **Please ensure to message/email to pre-book your pizza for your stay.**
+
+![pizza1](https://github.githubassets.com/pizza1.png)
