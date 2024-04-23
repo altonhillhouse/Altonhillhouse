@@ -35,4 +35,4 @@ _All our pizzas are freshly made with our own homemade hand stretched sourdough 
 
 **Please ensure to message/email to pre-book your pizza for your stay.**
 
-![IMG_6442](https://github.githubassets.com/IMG_6442.jpeg)
+![Pizza](https://github.githubassets.com/IMG_6442.jpeg)
